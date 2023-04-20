@@ -1,0 +1,8 @@
+E:\hoc Csharp\Lan\Lan\Lan\bin\Debug\Lan.exe
+E:\hoc Csharp\Lan\Lan\Lan\bin\Debug\Lan.pdb
+E:\hoc Csharp\Lan\Lan\Lan\obj\x86\Debug\Lan.Form1.resources
+E:\hoc Csharp\Lan\Lan\Lan\obj\x86\Debug\Lan.Properties.Resources.resources
+E:\hoc Csharp\Lan\Lan\Lan\obj\x86\Debug\Lan.csproj.GenerateResource.Cache
+E:\hoc Csharp\Lan\Lan\Lan\obj\x86\Debug\Lan.exe
+E:\hoc Csharp\Lan\Lan\Lan\obj\x86\Debug\Lan.pdb
+E:\hoc Csharp\Lan\Lan\Lan\obj\x86\Debug\Lan.csprojResolveAssemblyReference.cache
